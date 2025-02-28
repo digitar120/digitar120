@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @digitar120
+- 👋 Hi, I’m Gabriel!
 - 👀 I’m interested in Java and Linux related stuff.
 - 🌱 I’m currently learning Spring APIs, PicoCLI applications, Linux scripts and JSoup scraping.
 - 📫 You can reach me by mail: digitar120@outlook.com
